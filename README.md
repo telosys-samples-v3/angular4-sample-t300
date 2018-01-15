@@ -28,7 +28,7 @@ Everything is now ready to run the application.
 
 * Start the application by running `ng serve`
 
-##List of the dependencies install with `npm install`
+### List of the dependencies installed by NPM
 
  
  <table>
